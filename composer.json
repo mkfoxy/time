@@ -1,0 +1,24 @@
+{
+  "name": "propellerads/time",
+  "description": "Time library",
+  "keywords": [
+    "time"
+  ],
+  "homepage": "https://github.com/propellerads/time",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ilia Lesnykh",
+      "email": "i.lesnykh@propellerads.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PropellerAds\\Time\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^5.0|^7.0"
+  }
+}
