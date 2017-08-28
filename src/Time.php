@@ -12,7 +12,15 @@ final class Time {
 
     const HOUR = 3600;
 
+    const TWO_HOURS = 7200;
+
+    const THREE_HOURS = 10800;
+
+    const SIX_HOURS = 21600;
+
     const DAY = 86400;
+
+    const TWO_DAYS = 172800;
 
     const WEEK = 604800;
 
