@@ -5,7 +5,8 @@ namespace PropellerAds\Time;
  * Class Time
  * @package PropellerAds\Time
  */
-final class Time {
+final class Time
+{
     const SECOND = 1;
 
     const MINUTE = 60;
