@@ -11,10 +11,6 @@ final class Time
 
     const MINUTE = 60;
 
-    const FIFTEEN_MINUTES = 900;
-
-    const THIRTY_MINUTES = 1800;
-
     const HOUR = 3600;
 
     const TWO_HOURS = 7200;
